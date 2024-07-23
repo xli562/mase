@@ -204,6 +204,8 @@ MASE_HW_DEPS = {
         "matmul",
         "common",
     ],
+    # Scratch
+    "led_switch/led_switch": [],
     # ViT
     "ViT/fixed_patch_embed": [
         "conv",
